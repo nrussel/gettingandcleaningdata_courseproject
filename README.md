@@ -1,7 +1,4 @@
-# gettingandcleaningdata_courseproject
-Course Project for Getting and Cleaning Data course project
-
-Getting and Cleaning Data - Course Project Code Book
+Codebook
 
 Script Logic:
 Comments are included along with the code, but the step by step logic of “run_analysis.R” are:
