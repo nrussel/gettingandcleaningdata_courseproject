@@ -1,6 +1,7 @@
 Codebook and script explanation:
 
 Variable Descriptions:
+
 subject - unique identifier representing a different participant in the data collection (numeric). e.g. 1, 2, etc.
 
 activitydesc - a description of the activity the subject was performing for the record (character). e.g. Laying, Standing, etc.
